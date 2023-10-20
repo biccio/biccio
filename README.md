@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 I come from an **information architecture**, **interaction design** and **process design** background, mostly in streaming video web projects. Now I'm co-founder @Vudio, and Senior Tech Communication @PagoPA (Italy). I spent all my work life in digital agencies, simplifying and humanizing tech complexities. 
 
-I love travelling with my gravel bike, and playing rock blues with my Fender Stratocaster. Most importantly, I'm a father of a 7 month old newborn.
+I love travelling with my gravel bike, and playing rock blues with my Fender Stratocaster. Most importantly, I'm a father.
 
 
