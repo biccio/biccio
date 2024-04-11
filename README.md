@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working as Tech Communication Lead [@PagoPA](https://github.com/pagopa)
+- 🔭 I’m currently working as Seionr Tech Communication Officer [@PagoPA](https://github.com/pagopa)
 - 🌱 I’m Co-founder of [Vudio](https://vudio.it)
 - 😄 Pronouns: he/him
 
